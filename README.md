@@ -23,14 +23,15 @@ The project demonstrates real-world analytics skills using **Python (Pandas)**, 
 ---
 
 ## 🛠 Tech Stack
+- 📁 Dataset — From kaggle 
 - 🐍 Python (Pandas, NumPy) — Data cleaning & analysis  
 - 🗄️ PostgreSQL — SQL analytics & querying  
 - 📊 Power BI — Interactive dashboards & storytelling  
-- 📁 Git & GitHub — Version control  
+
 
 ---
 
-## 📊 Power BI Dashboard (3 Pages)
+
 
 ## 📊 RepoRadar – Power BI Dashboards
 
