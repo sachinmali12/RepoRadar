@@ -32,20 +32,29 @@ The project demonstrates real-world analytics skills using **Python (Pandas)**, 
 
 ## 📊 Power BI Dashboard (3 Pages)
 
+## 📊 RepoRadar – Power BI Dashboards
+
 ### 🟦 Page 1: Overview
 - Total Repositories, Stars, Forks, Contributors
 - Top 10 repositories by stars
 - Repository summary table with filters
+
+
+<p align="center">
+  <img src="Power%20BI/img1.jpg" alt="RepoRadar Overview Dashboard" width="900"/>
+</p>
+
+---
 
 ### 🟩 Page 2: Language Insights
 - Repository count by programming language
 - Total stars by language
 - Average stars per language
 
-### 🟨 Page 3: Trending & Community
-- Top trending repositories (stars gained)
-- Stars vs Forks (community engagement)
-- Contributors by repository
+
+<p align="center">
+  <img src="Power%20BI/img2.jpg" alt="RepoRadar Overview Dashboard" width="900"/>
+</p>
 
 ---
 
