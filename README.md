@@ -6,7 +6,7 @@ The project demonstrates real-world analytics skills using **Python (Pandas)**, 
 
 ---
 
-## 🎯 Project Objectives
+# 🎯 Project Objectives
 - Identify the most popular GitHub repositories using stars and forks
 - Analyze trending repositories based on stars gained over time
 - Understand programming language popularity and impact
