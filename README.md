@@ -1,4 +1,4 @@
-1# 📊 RepoRadar — GitHub Trending Repository Analytics 🚀
+21# 📊 RepoRadar — GitHub Trending Repository Analytics 🚀
 
 RepoRadar is an **end-to-end data analytics project** that analyzes **GitHub trending repositories** to uncover insights about ⭐ popularity, 📈 growth trends, 💻 programming language adoption, and 🧑‍💻 community engagement.
 
